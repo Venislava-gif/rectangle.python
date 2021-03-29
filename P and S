@@ -1,0 +1,11 @@
+a = float(input("Enter length of the rectangle: "))
+
+b = float(input("Enter breadth of the rectangle: "))
+
+
+S = a * b
+
+P = 2 * (a * b)
+
+print("Area of rectangle = ", S)
+print("Perimeter of rectangle = ", P)
